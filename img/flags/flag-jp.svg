@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ja</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,23.437 C5.683,23.437 0.563,18.316 0.563,11.999 C0.563,5.683 5.683,0.562 12,0.562 C18.317,0.562 23.437,5.683 23.437,11.999 C23.437,18.316 18.317,23.437 12,23.437 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ja">
+            <polygon id="Fill-1" fill="#F0F0F0" fill-rule="nonzero" points="0 40 60 40 60 0.04 0 0.04"></polygon>
+            <g id="Group-5" transform="translate(18.000000, 8.000000)">
+                <g id="Fill-3-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Fill-3" fill="#D70027" fill-rule="nonzero" mask="url(#mask-2)" points="0.48 23.48 23.52 23.48 23.52 0.56 0.48 0.56"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

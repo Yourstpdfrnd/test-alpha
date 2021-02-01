@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Flags / Rectangle / cs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags-/-Rectangle-/-cs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="061-czech-republic">
+            <rect id="Rectangle" fill="#0052B4" x="0" y="0.0394152047" width="60" height="39.9211696"></rect>
+            <polygon id="Path" fill="#D80027" points="60 20 60 39.9605848 0 39.9605848 25.2169922 20"></polygon>
+            <polygon id="Path" fill="#F0F0F0" points="60 0.0394152047 60 20 25.2169922 20 0 0.0394152047"></polygon>
+        </g>
+    </g>
+</svg>

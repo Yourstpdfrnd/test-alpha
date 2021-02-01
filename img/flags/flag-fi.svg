@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>fi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 22.541 0 17.458 16.296 17.458 16.296 0.04 21.38 0.04 21.38 17.458 60 17.458 60 22.541 21.38 22.541 21.38 40 16.296 40 16.296 22.541"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fi">
+            <polygon id="Fill-1" fill="#F0F0F0" fill-rule="nonzero" points="0 40 60 40 60 0.04 0 0.04"></polygon>
+            <g id="Group-5">
+                <g id="Fill-3-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Fill-3" fill="#1D56B2" fill-rule="nonzero" mask="url(#mask-2)" points="0 40 60 40 60 0.04 0 0.04"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

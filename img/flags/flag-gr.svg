@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>el</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="el" fill-rule="nonzero">
+            <polygon id="Fill-1" fill="#F0F0F0" points="0 40 60 40 60 0.04 0 0.04"></polygon>
+            <polygon id="Fill-3" fill="#198FF4" points="0 4.793 60 4.793 60 0.04 0 0.04"></polygon>
+            <polygon id="Fill-5" fill="#198FF4" points="0 14.933 60 14.933 60 9.863 0 9.863"></polygon>
+            <polygon id="Fill-7" fill="#198FF4" points="0 25.072 60 25.072 60 20.002 0 20.002"></polygon>
+            <polygon id="Fill-9" fill="#198FF4" points="0 35.211 60 35.211 60 30.141 0 30.141"></polygon>
+            <polygon id="Fill-11" fill="#198FF4" points="0 20.002 21.982 20.002 21.982 0.04 0 0.04"></polygon>
+            <polygon id="Fill-13" fill="#F0F0F0" points="0 12.116 21.982 12.116 21.982 7.61 0 7.61"></polygon>
+            <polygon id="Fill-15" fill="#F0F0F0" points="8.488 20.002 12.994 20.002 12.994 0.04 8.488 0.04"></polygon>
+        </g>
+    </g>
+</svg>

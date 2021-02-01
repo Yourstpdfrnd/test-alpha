@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>pt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.04 22.928 0.04 22.928 40 0 40"></polygon>
+        <path d="M7.928,15.625 C3.717,15.625 0.303,12.211 0.303,8 C0.303,3.789 3.717,0.375 7.928,0.375 C12.139,0.375 15.553,3.789 15.553,8 C15.553,12.211 12.139,15.625 7.928,15.625 Z" id="path-3"></path>
+        <path d="M0.639,0.188 L9.217,0.188 L9.217,4.953 C9.217,7.322 7.296,9.242 4.928,9.242 C2.559,9.242 0.639,7.322 0.639,4.953 L0.639,0.188 Z" id="path-5"></path>
+        <path d="M1.928,3.383 C1.139,3.383 0.498,2.741 0.498,1.953 L0.498,0.047 L3.357,0.047 L3.357,1.953 C3.357,2.741 2.716,3.383 1.928,3.383 Z" id="path-7"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pt">
+            <polygon id="Fill-1" fill="#D70027" fill-rule="nonzero" points="0 40 60 40 60 0.04 0 0.04"></polygon>
+            <g id="Group-5">
+                <g id="Fill-3-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Fill-3" fill="#71A343" fill-rule="nonzero" mask="url(#mask-2)" points="0 40 23.04 40 23.04 0.04 0 0.04"></polygon>
+                </g>
+            </g>
+            <g id="Group-8" transform="translate(15.000000, 12.000000)">
+                <g id="Fill-6-Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="path-3"></g>
+                    <polygon id="Fill-6" fill="#FFD743" fill-rule="nonzero" mask="url(#mask-4)" points="0.24 15.64 15.6 15.64 15.6 0.28 0.24 0.28"></polygon>
+                </g>
+            </g>
+            <g id="Group-11" transform="translate(18.000000, 16.000000)">
+                <g id="Fill-9-Clipped">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="path-5"></g>
+                    <polygon id="Fill-9" fill="#D70027" fill-rule="nonzero" mask="url(#mask-6)" points="0.6 9.36 9.24 9.36 9.24 0.12 0.6 0.12"></polygon>
+                </g>
+            </g>
+            <g id="Group-14" transform="translate(21.000000, 19.000000)">
+                <g id="Fill-12-Clipped">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="path-7"></g>
+                    <polygon id="Fill-12" fill="#F0F0F0" fill-rule="nonzero" mask="url(#mask-8)" points="0.48 3.48 3.36 3.48 3.36 0 0.48 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
