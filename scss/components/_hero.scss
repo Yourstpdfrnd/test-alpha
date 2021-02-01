@@ -1,0 +1,164 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(../img/main-bg.png);
+    background-position: bottom right 65%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+    background-size: 70%;
+    animation-name: home-fade;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 3s;
+    &__inner{
+        display: flex;
+        justify-content: space-between;
+        padding: 250px 35px 100px 0;
+    }
+    &__info{
+        max-width: 600px;
+        width: 100%;
+    }
+    &__title{
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        font-size: 60px;
+        max-width: 450px;
+        span{
+          color: #e83a1c;
+          font-weight: 700;
+      }
+    }
+    &__info-text{
+        font-size: 22px;
+        font-weight: 200;
+        line-height: 40px;
+        margin-bottom: 50px;
+        span{
+            color: #e83a1c;
+            font-weight: 700;
+        }
+       
+    }
+    &__info-reg{
+        display: inline-block;
+        width: 250px;
+        font-size: 22px;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        border: none;  
+    }
+    &__banner{
+      position: relative;
+      width: 40%;
+      min-height: 600px;
+      perspective: 1000px;
+      transform-style: preserve-3d;
+    }
+    &__banner-wrapper{
+      width: 100%;
+      height: 100%;
+      perspective: 1000px;
+      transform-style: preserve-3d;
+      transition: transform .3s;
+    }
+    &__banner-img{
+      position: absolute;
+      pointer-events: none;
+      transition: all .6s;
+      border-radius: 8px;
+      border: 1px solid #fff;
+    }
+
+}
+input[type="button"] {
+  background-color: #e83a1c;
+  height: 55px;
+  border: none;
+  outline: none;
+  padding: 0 40px;
+  color: #fff;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  opacity:.9;
+}
+
+@keyframes blick-slide {
+  from {background-position-x: -250px;}
+  to {background-position-x: calc(100% + 250px);}
+}
+	
+
+.blick-slide input {
+  background-image: linear-gradient(-45deg, transparent 0%, transparent 49%, #fff 50%, transparent 70%)!important;
+  background-repeat: no-repeat!important;
+  animation: blick-slide infinite 4s;
+}
+
+//картинки на баннер 
+  .hero__banner-img_game-1 {
+    width: 255px;
+    top: 100px;
+    left: -23px;
+    transform: translateZ(15px);
+  }
+  .hero__banner-img_game-2 {
+    width: 255px;
+    top: 215px;
+    left: 0;
+    transform: translateZ(25px);
+  }
+  .hero__banner-img_game-3 {
+    width: 280px;
+    top: 350px;
+    left: 100px;
+    transform: translateZ(35px);
+  }
+  .hero__banner-img_game-4 {
+    width: 200px;
+    top: 270px;
+    left: 250px;
+    transform: translateZ(35px);
+  }
+  .hero__banner-img_game-5 {
+    width: 320px;
+    top: 470px;
+    left: 300px;
+    transform: translateZ(25px);
+  }
+ 
+  .hero__banner-img_game-6 {
+    width: 330px;
+    top: 75px;
+    left: 100px;
+    transform: translateZ(40px);
+  }
+  .hero__banner-img_game-7 {
+    width: 225px;
+    top: 0;
+    left: 0;
+    transform: translateZ(70px);
+  }
+ 
+  .hero__banner-img_game-8 {
+    width: 290px;
+    top: -15px;
+    left: 245px;
+    transform: translateZ(65px);
+  }
+  .hero__banner-img_game-9 {
+    width: 300px;
+    top: 505px;
+    left: 0;
+    transform: translateZ(40px);
+  }
+  
